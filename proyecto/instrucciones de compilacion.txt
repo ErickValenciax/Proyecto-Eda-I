@@ -1,0 +1,13 @@
+Para utilizar este programa de Administración de vuelos primero debemos 
+entrar al link de GitHub donde se encuentra los archivos del código, una 
+vez descargados deberemos utilizar la siguiente instrucción en nuestra 
+consola
+
+gcc -Wall -std=c99 -osalida.out menu.c VDLL.c AlgoritmosyPrint.c
+
+esta instrucción compilara nuestro administrador de vuelos,
+seguido de esto utilizaremos la instrucción
+
+/salida.out
+
+para ejecutar nuestro programa
